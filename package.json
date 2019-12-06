@@ -59,11 +59,3 @@
     "node": "12.13.0"
   }
 }
-{
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.1",
-  "engines": {
-    "npm": "6.x"
-  }
-}
