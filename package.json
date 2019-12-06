@@ -52,10 +52,18 @@
   }
 }
 {
-  "name": "myapp",
-  "description": "a really cool app",
+  "name": "Test",
+  "description": "Test",
   "version": "1.0.0",
   "engines": {
     "node": "12.13.0"
+  }
+}
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.1",
+  "engines": {
+    "npm": "6.x"
   }
 }
