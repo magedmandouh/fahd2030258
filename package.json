@@ -5,7 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
-  "anti-spam": "^0.2.7",
+  "anti-spam" : "^0.2.7",
     "array-sort": "^1.0.0",
     "ascii-data-table": "^2.1.1",
     "common-tags": "^1.8.0",
